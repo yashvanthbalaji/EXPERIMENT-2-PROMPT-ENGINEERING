@@ -24,7 +24,7 @@ Step 4: Input the Broad Prompt into the AI model and record the generated respon
 
 Step 5: Input the Refined Prompt into the AI model and record the generated response.
 
-Step 6: Compare the two outputs on the basis of:
+Step 6: Compare the two outputs 
 
 Step 7: Repeat Steps 2–6 for multiple scenarios.
 
