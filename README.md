@@ -35,9 +35,10 @@ Step 9: Analyze which type of prompting yields better quality responses.
 Step 10: Conclude the experiment.
 ## OUTPUT
 
-[BALAJI A Comparative Analysis.pdf](https://github.com/user-attachments/files/22098752/BALAJI.A.Comparative.Analysis.pdf)
+[BALAJI A Comparative Analysis of Different Types of Prompting Patterns with Test Scenarios.pdf](https://github.com/user-attachments/files/22098781/BALAJI.A.Comparative.Analysis.of.Different.Types.of.Prompting.Patterns.with.Test.Scenarios.pdf)
 
 
+.
 Scenario 1: General Knowledge
 Broad Prompt : “Tell me about Artificial Inteliigence.”
 ## output:
