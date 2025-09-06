@@ -35,6 +35,11 @@ Step 9: Analyze which type of prompting yields better quality responses.
 Step 10: Conclude the experiment.
 ## OUTPUT
 
+Comparative Analysis of Different
+Types of Prompting Patterns with
+Test Scenarios
+
+
 [BALAJI A Comparative Analysis of Different Types of Prompting Patterns with Test Scenarios.pdf](https://github.com/user-attachments/files/22098781/BALAJI.A.Comparative.Analysis.of.Different.Types.of.Prompting.Patterns.with.Test.Scenarios.pdf)
 
 
